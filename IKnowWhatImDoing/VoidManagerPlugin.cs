@@ -1,7 +1,6 @@
-﻿using IKnowWhatImDoing;
-using VoidManager.MPModChecks;
+﻿using VoidManager.MPModChecks;
 
-namespace VoidJumpKeybind
+namespace IKnowWhatImDoing
 {
     public class VoidManagerPlugin : VoidManager.VoidPlugin
     {
