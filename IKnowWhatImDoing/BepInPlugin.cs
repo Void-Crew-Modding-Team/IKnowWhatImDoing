@@ -16,7 +16,7 @@ namespace IKnowWhatImDoing
         private void Awake()
         {
             Log = Logger;
-            Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
+            Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly(), MyPluginInfo.PLUGIN_GUID);
             Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
         }
     }
