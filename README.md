@@ -7,13 +7,14 @@
 Version 0.0.1  
 For Game Version 0.27.0  
 Developed by 18107  
-Requires VoidManager 1.1.8
+Requires: BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.1.8
+
 
 ---------------------
 
 ### 💡 Function(s)
 
-- Skips all confirmation popups
+- Skips all confirmation popups.
 
 ### 🎮 Client Usage
 
