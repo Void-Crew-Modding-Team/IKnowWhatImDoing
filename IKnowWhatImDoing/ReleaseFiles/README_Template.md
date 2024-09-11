@@ -7,13 +7,14 @@
 Version [ModVersion]  
 For Game Version [GameVersion]  
 Developed by [Authors]  
-Requires VoidManager [VoidManagerVersion]
+Requires: [Dependencies]
+
 
 ---------------------
 
 ### 💡 Function(s)
 
-- [Description]
+- Skips all confirmation popups.
 
 ### 🎮 Client Usage
 
